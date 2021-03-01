@@ -1,5 +1,5 @@
 To use this template run
-npx react-native init SomeApp --template https://github.com/Esemesek/react-native-new-template.git
+npx react-native init SomeApp --template https://github.com/josh-vincent/vinnies-amplify-starter.git
 
 cd ios
 pod install
