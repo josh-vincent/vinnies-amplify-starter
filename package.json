@@ -1,0 +1,8 @@
+{
+  "name": "react-native-vinnies-amplify-starter",
+  "version": "0.0.1",
+  "description": "Starter Mobile app for AWS amplify with navigation, context, theme, services, auth, version checking, loading",
+  "repository": "https://github.com/josh-vincent/vinnies-amplify-starter.git",
+  "author": "Josh Vincent <joshua.vincent@pm.me>",
+  "license": "MIT"
+}
