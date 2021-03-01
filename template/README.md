@@ -1,3 +1,6 @@
+To use this template run
+npx react-native init SomeApp --template https://github.com/Esemesek/react-native-new-template.git
+
 Make sure to change podfile before running yarn run ios
 
 Add In React-native-vector-icons
